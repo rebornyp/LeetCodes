@@ -58,14 +58,14 @@ public class MyFilter implements Filter {
 }
 
 
-  <filter>
+  /*<filter>
       <filter-name>Filter</filter-name>
       <filter-class>MyFilter</filter-class>
   </filter>
   <filter-mapping>
       <filter-name>Filter</filter-name>
       <url-pattern>/index.jsp</url-pattern>
-  </filter-mapping>
+  </filter-mapping>*/
 
 
 
