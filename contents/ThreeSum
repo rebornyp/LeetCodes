@@ -1,0 +1,39 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+/**
+ * 为了求出任意长度为N的给定整数数组里头所有不同的3个相合是0的方案
+ * @author yipin
+ *
+ */
+public class ThreeSums {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int[] a = {0, 1, 2, -1, -2, 4, -5, 6, 3};
+		List<Integer> s = Arrays.asList(a);
+//		List arr1 = threeSum(a);
+//		String[] array=new String[3]; 
+//	    array[0]="王利虎"; 
+//	    array[1]="张三"; 
+//	    array[2]="李四"; 
+//	    List<String> list=Arrays.asList(array); 
+//	    for(int i=0;i<list.size();i++){ 
+//	      System.out.println(list.get(i)); 
+//	    }
+		
+		
+	}
+
+	static public List<List<Integer>> threeSum(int[] nums) {
+		List<List<Integer>> arr = new ArrayList<List<Integer>>();
+		
+		return null;
+	}
+	
+	static void p(Object o) {
+		System.out.println(o);
+	}
+	
+}
